@@ -1,0 +1,17 @@
+{
+  "name": "node-express-sqlite3",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js, Express, and SQLite3",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "node --watch ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
